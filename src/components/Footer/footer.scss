@@ -1,6 +1,6 @@
 .footer {
   height: 90px;
-  background: #3D4050;
+  background: #3d4050;
   display: flex;
   align-items: center;
   &__content {
@@ -10,7 +10,7 @@
     gap: 74px;
 
     @media (max-width: 796px) {
-      gap: 3px;
+      gap: 0px;
     }
   }
 
@@ -40,6 +40,10 @@
     display: flex;
     align-items: center;
     gap: 10px;
+
+    @media (max-width: 796px) {
+      gap: 5px;
+    }
   }
 
   &__subtext {
