@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-lending-react/static/css/main.c8b0993a.css",
+    "main.css": "/test-lending-react/static/css/main.e6d5cb4d.css",
     "main.js": "/test-lending-react/static/js/main.c8a2bb6f.js",
     "static/media/header.png": "/test-lending-react/static/media/header.ea4d3dd8257b4b9b9bd3.png",
     "static/media/map.png": "/test-lending-react/static/media/map.5141a7fd13acf12ccdd2.png",
@@ -17,11 +17,11 @@
     "static/media/loop.svg": "/test-lending-react/static/media/loop.917f81bde8036abe698b24fc7a98a73e.svg",
     "index.html": "/test-lending-react/index.html",
     "static/media/line.svg": "/test-lending-react/static/media/line.26afb7523cc077a0a88983e89259207c.svg",
-    "main.c8b0993a.css.map": "/test-lending-react/static/css/main.c8b0993a.css.map",
+    "main.e6d5cb4d.css.map": "/test-lending-react/static/css/main.e6d5cb4d.css.map",
     "main.c8a2bb6f.js.map": "/test-lending-react/static/js/main.c8a2bb6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8b0993a.css",
+    "static/css/main.e6d5cb4d.css",
     "static/js/main.c8a2bb6f.js"
   ]
 }
