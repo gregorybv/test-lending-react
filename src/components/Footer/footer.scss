@@ -20,6 +20,11 @@
     line-height: 16px;
 
     color: #ffffff;
+
+    @media (max-width: 796px) {
+      font-size: 12px;
+      line-height: normal;
+    }
   }
 
   &__blocks {
@@ -52,5 +57,10 @@
     line-height: 16px;
 
     color: #ffffff;
+
+    @media (max-width: 796px) {
+      font-size: 12px;
+      line-height: normal;
+    }
   }
 }
