@@ -146,7 +146,7 @@ const Form = () => {
         </label>
       </div>
 
-      <button type='button' className='form__button'>
+      <button type='submit' className='form__button'>
         Отправить
       </button>
     </form>
