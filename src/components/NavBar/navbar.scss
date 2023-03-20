@@ -1,70 +1,3 @@
-// .navbar {
-//   position: fixed;
-//   top: 0;
-//   z-index: 3;
-//   align-items: center;
-//   width: 100%;
-//   height: 100px;
-
-//   background: rgba(16, 16, 29, 0.9);
-
-//   &__content {
-//     max-width: 1172px;
-//     width: 100%;
-//     display: flex;
-//     justify-content: space-between;
-//     align-items: center;
-//     margin: 0 auto;
-//     padding-top: 33px;
-
-//     @media (max-width: 796px) {
-//       padding: 33px 15px 0 15px;
-//     }
-
-//     @media (max-width: 620px) {
-//       flex-wrap: wrap;
-//       justify-content: center;
-//       gap: 30px;
-//       padding-top: 12px;
-//     }
-//   }
-
-//   &__logo {
-//     color: #ffffff;
-//     font-family: "Raleway", sans-serif;
-//     font-weight: 800;
-//     font-size: 1.8em;
-//     line-height: 33px;
-//   }
-
-//   &__span {
-//     color: #42a9ed;
-//   }
-
-//   &__menu {
-//     display: flex;
-//     gap: 60px;
-
-//     @media (max-width: 810px) {
-//       gap: 20px;
-//     }
-//   }
-
-//   &__list {
-//     font-weight: 600;
-//     font-size: 0.8em;
-//     line-height: 16px;
-//   }
-
-//   &__link {
-//     &:hover {
-//       color: #42a9ed;
-//       text-decoration: underline;
-//       text-underline-offset: 6px;
-//     }
-//   }
-// }
-
 .navbar {
   position: fixed;
   top: 0;
@@ -72,6 +5,10 @@
   align-items: center;
   width: 100%;
   height: 100px;
+
+  @media (max-width: 796px) {
+    height: 70px;
+  }
 
   background: rgba(16, 16, 29, 0.9);
   &__content {
@@ -84,7 +21,7 @@
     padding-top: 33px;
 
     @media (max-width: 796px) {
-      padding: 33px 15px 0 15px;
+      padding: 5px 15px 0 15px;
     }
   }
 
@@ -119,7 +56,6 @@
     }
   }
 
-  // .navbar__menu
   @media only screen and (max-width: 768px) {
     .hamburger {
       display: block;
@@ -132,8 +68,7 @@
       background: rgba(16, 16, 29);
       flex-direction: column;
       top: 0;
-      // height: 100%;
-      width: 60%;
+      width: 70%;
       transform: 0.3s;
       border-top-right-radius: 10px;
       border-bottom-right-radius: 10px;
