@@ -28,11 +28,7 @@ const Hero = () => {
         </div>
         <div className='hero__content'>
           <div className='hero__block'>
-            <div
-              className='hero__icons'
-              data-aos='fade-right'
-              data-aos-duration='1200'
-            >
+            <div className='hero__icons'>
               <img className='hero__icon' src={loop} alt='loop' />
             </div>
             <p className='hero__text'>Lorem ipsum dolor sit amet</p>
@@ -92,11 +88,7 @@ const Hero = () => {
           </div>
 
           <div className='hero__block'>
-            <div
-              className='hero__icons'
-              data-aos='fade-left'
-              data-aos-duration='1200'
-            >
+            <div className='hero__icons'>
               <img className='hero__icon' src={many} alt='many' />
             </div>
             <p className='hero__text'>
