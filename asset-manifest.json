@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-lending-react/static/css/main.e3a00b50.css",
-    "main.js": "/test-lending-react/static/js/main.5c8c4866.js",
+    "main.js": "/test-lending-react/static/js/main.17e46396.js",
     "static/media/header.png": "/test-lending-react/static/media/header.9655a521f8ec68f43d01.png",
     "static/media/map.png": "/test-lending-react/static/media/map.5141a7fd13acf12ccdd2.png",
     "static/media/qiwi.svg": "/test-lending-react/static/media/qiwi.14b3881654b94500de5c8a3fba4dc117.svg",
@@ -18,10 +18,10 @@
     "index.html": "/test-lending-react/index.html",
     "static/media/line.svg": "/test-lending-react/static/media/line.26afb7523cc077a0a88983e89259207c.svg",
     "main.e3a00b50.css.map": "/test-lending-react/static/css/main.e3a00b50.css.map",
-    "main.5c8c4866.js.map": "/test-lending-react/static/js/main.5c8c4866.js.map"
+    "main.17e46396.js.map": "/test-lending-react/static/js/main.17e46396.js.map"
   },
   "entrypoints": [
     "static/css/main.e3a00b50.css",
-    "static/js/main.5c8c4866.js"
+    "static/js/main.17e46396.js"
   ]
 }
